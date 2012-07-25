@@ -1,7 +1,4 @@
-2011-2T-1P-SO
-=============
-
-#SISTEMAS OPERATIVOS - I Parcial - 2011-2T
+#SISTEMAS OPERATIVOS - I Parcial [2011-2T]
 
 ===========================================================
     INTEGRANTES:
