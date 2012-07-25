@@ -10,8 +10,8 @@
     - Fabricio Orrala P.
 ===========================================================
 
-INTRUCCIONES
 ===========================================================
+INTRUCCIONES
   1) Compilamos el proyecto
       $> make
   2) Ejecutamos el binario del servidor
@@ -19,7 +19,7 @@ INTRUCCIONES
   3) Ejecutamos el binario del servidor
       $> ./ebankServidor.o
   4) Abrimos varias terminales y ejecutamos el mismo binario
-
+===========================================================
 
 DESCRIPCION DE LOS DIRECTORIOS
 ===========================================================
