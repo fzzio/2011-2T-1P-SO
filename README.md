@@ -9,8 +9,6 @@
     - Andrea Obando N.
     - Fabricio Orrala P.
 ===========================================================
-
-===========================================================
 INTRUCCIONES
   1) Compilamos el proyecto
       $> make
@@ -20,9 +18,8 @@ INTRUCCIONES
       $> ./ebankServidor.o
   4) Abrimos varias terminales y ejecutamos el mismo binario
 ===========================================================
-
 DESCRIPCION DE LOS DIRECTORIOS
-===========================================================
   - data: Informacion a usar, datos, etc.
   - headers: Archivos de encabezados .h
   - sources: codigos fuentes del proyecto
+===========================================================
