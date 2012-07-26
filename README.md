@@ -17,7 +17,7 @@
     </li>
     <li>
        Ejecutamos el binario del servidor <br />
-       <code> $> $> ./ebankServidor.o </code>
+       <code> $> ./ebankServidor.o </code>
     </li>
     <li>
         Abrimos varias terminales y ejecutamos el mismo binario
@@ -25,9 +25,10 @@
 </ol>
 
 ## DESCRIPCION DE LOS DIRECTORIOS ##
-  - data: Informacion a usar, datos, etc.
-  - headers: Archivos de encabezados .h
-  - sources: codigos fuentes del proyecto
+  - <strong>data:</strong> Informacion a usar, datos, etc.
+  - <strong>headers:</strong> Archivos de encabezados .h
+  - <strong>sources:</strong> codigos fuentes del proyecto
+
 
 ## Contacto ##
 ### Twitter: ###
@@ -36,7 +37,3 @@
 
 ### E-mail: ###
 * fabricio.orrala@gmail.com
-
-
-
-&copy; Todos los derechos son reservados.
