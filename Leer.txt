@@ -16,7 +16,6 @@
       $> ./ebankServidor.o
   4) Abrimos varias terminales y ejecutamos el mismo binario
   
-
 ===========================================================
   DESCRIPCION DE LOS DIRECTORIOS
   - data: Informacion a usar, datos, etc.
